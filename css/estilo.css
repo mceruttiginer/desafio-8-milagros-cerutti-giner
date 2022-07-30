@@ -1,0 +1,99 @@
+/* INDEX */
+
+body {
+    background-color: #89b984;
+}
+
+.imagenLogo {
+    width: 15%;
+}
+
+.ancla {
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+header {
+    background-color: #e79d5b;
+    transition: all 0.2s;
+}
+
+
+
+.imagenIndex {
+    width: 30%;
+}
+
+.botones {
+    background-color: lightgray;
+    transition: all 0.2s;
+}
+
+.botones:hover {
+    background-color: grey;
+    height: 80px;
+    width: 180px;
+    text-decoration: none;
+
+}
+
+.tarjetas {
+    width: 100%;
+    height: 180px;
+}
+
+.textoTarjetas {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* PRODUCTOS */
+.textoCarrusel {
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+}
+
+.tituloproductos{
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: right;
+}
+/* CONTACTO */
+.formulario {
+    margin: 10px;
+    padding: 10px;
+    border: 1px lightgray solid;
+}
+/* UBICACION */
+.delivery {
+    background-color: #89b984;
+    margin: 10px;
+    padding: 30px;
+}
+/* NOSOTROS */
+.casero {
+    width: 100%;
+    height: 750px;
+}
+.nosotros {
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    background-color: azure;
+    text-align: center;
+    background: rgb(158, 231, 183);
+  }
+  .textoNosotros {
+    text-align: center;
+    color: black;
+  }
+  
+  .fotoNosotros {
+    width: 300px;
+    height: 350px;
+  }
+  
